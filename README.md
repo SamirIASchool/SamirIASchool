@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science at IA School
 - 💞️ I’m looking to collaborate on project in the fields of transport, smart cities and industry 4.0 
 - 📫 How to reach me:
-|  ....... <a href="http://www.linkedin.com/in/samir-mebrek">LinkedIn<a/> .........|......... <a href="https://samirmebrek.github.io/">Ma page web<a/> .......|
+|  ....... <a href="http://www.linkedin.com/in/samir-mebrek">LinkedIn<a/> .........|......... <a href="https://samirmebrek.github.io/">My Website<a/> .......|
 
 <!---
 SamirIASchool/SamirIASchool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
